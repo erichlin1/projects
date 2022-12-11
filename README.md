@@ -9,7 +9,7 @@
 | 5.0 | GA Clone | Recreation of Google Analytics dashboard | Python and Flask
 | - | - | - | - |
 | 6.0 | GA Chatly | Chatbot that infers trends based on KPIs and defined business objective | n/a
-| 7.0 | eListly | Single feature Etsy listing management app | React.js and Node.js
+| 7.0 | Etsy Lister | Single feature Etsy listing management app | React.js and Node.js
 
 
 
