@@ -1,6 +1,6 @@
 # Projects
 
-| Command | Description |
+| Command | Description | Technologies |
 | --- | --- |
 | Pixler | Simple GUI web-based app pixel art maker | html, css and vanilla js |
 | Sort Visualizer | Web app to visualize various (e.g. quicksort, mergesort, heapsort, etc) sorting algorithm | html, css and vanilla js |
