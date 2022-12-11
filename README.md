@@ -3,7 +3,7 @@
 | No. | Name | Description | Technologies |
 | :---  | :---  | :---  | :---  |
 | 1.0 | Pixler | Pixel art maker | html, css and vanilla js |
-| 2.0 | - | - | html, css and vanilla js |
+| 2.0 | Dogstagram | random dog generator | html, css and vanilla js |
 | 3.0 | Sort Visualizer | Web app to visualize various (e.g. quicksort, mergesort, heapsort, etc) sorting algorithm | html, css and typescript |
 | 4.0 | Twitter Clone | Recreation of Twitter | typescript, React.js and Node.js |
 | 5.0 | Ape Runner | Endless 2D runner game set on a yact - inspired by Bored Ape Yacht Club | React.js and Node.js |
