@@ -2,8 +2,8 @@
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+
 
 |  Name | Description | Technology | 
 | --- | --- |
