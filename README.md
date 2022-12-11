@@ -8,7 +8,8 @@
 | 4.0 | Ape Runner | Endless interactive runner game set on a yact - inspired by Bored Ape Yacht Club | React.js and Node.js |
 | 5.0 | GA Clone | Recreation of Google Analytics dashboard | Python and Flask
 | - | - | - | - |
-| 6.0 | GA Chatly | Chatbot that infers trends based on KPIs and defined business objective | 
+| 6.0 | GA Chatly | Chatbot that infers trends based on KPIs and defined business objective | n/a
+| 7.0 | eListly | Single feature Etsy listing management app | React.js and Node.js
 
 
 
