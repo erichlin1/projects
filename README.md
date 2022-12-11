@@ -1,9 +1,9 @@
 # Projects
 
-| Command | Description |
+| Command | Description | Technologies
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Sort Visualizer | A web app to visualize various (e.g. quicksort, mergesort, heapsort, etc) sorting algorithm | html, css and vanilla js |
 
 
 |  Name | Description | Technology | 
