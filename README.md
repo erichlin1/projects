@@ -7,7 +7,7 @@
 | Twitter Clone | Recreation of twitter | React.js and Node.js |
 | Ape Runner | Endless interactive runner game set on a yact - inspired by Bored Ape Yacht Club | React.js and Node.js |
 | GA Clone | Recreation of Google Analytics dashboard | html, css and vanilla js |
-| --- | --- |
+| - | - |
 | GA+ | Chatbot that infers trends based on KPIs and defined business objective | 
 
 
