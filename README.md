@@ -3,6 +3,11 @@
 | Command | Description |
 | --- | --- |
 | Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+
 
 
 |  Name | Description | Technology | 
