@@ -1,9 +1,10 @@
 # Projects
 
-
-|  Name | Description | Technology | 
+| Command | Description |
 | --- | --- |
-| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 |  Name | Description | Technology | 
 | --- | --- |
