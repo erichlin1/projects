@@ -3,8 +3,8 @@
 | Command | Description |
 | --- | --- |
 | Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
-| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
-| Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
+| Sort Visualizer | A web app to visualize various (e.g. quicksort, mergesort, heapsort, etc) sorting algorithm | html, css and vanilla js |
+| Twitter Clone | A recreation of twitter | React.js and Node.js |
 | Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
 | Pixler | A simple GUI web-based app pixel art maker | html, css and vanilla js |
 
