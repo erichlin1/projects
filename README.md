@@ -4,7 +4,7 @@
 | :---  | :---  | :---  | :---  |
 | 1.0 | Pixler | Pixel art maker | html, css and vanilla js |
 | 2.0 | Dogstagram | random dog generator | html, css and vanilla js |
-| 3.0 | Order Retreiver | Retrieves orders from Etsy API | Fast API |
+| 3.0 | Order Retreiver | Retrieves orders from Etsy API | Python and Fast API |
 | 4.0 | Twitter Clone | Recreation of Twitter | typescript, React.js and Node.js |
 | 5.0 | Ape Runner | Endless 2D runner game set on a yact - inspired by Bored Ape Yacht Club | React.js and Node.js |
 | 6.0 | Etsy Clone | Reacreation of Etsy | Next.js and Node.js
